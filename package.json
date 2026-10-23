@@ -1,5 +1,8 @@
 {
   "name": "solu-prospeccao",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
 }
